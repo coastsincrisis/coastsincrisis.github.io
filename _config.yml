@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Coasts in Crisis'
+title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://github.com/coastsincrisis/site.git'
-baseurl:          '/coastsincrisis'
+url:              'https://minicomp.github.io'
+baseurl:          '/wax'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -85,7 +85,7 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      cnc_art: #name of the collection
+      cnc_art: #here goes the name of the collection
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - artist
