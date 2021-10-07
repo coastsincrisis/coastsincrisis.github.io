@@ -2,8 +2,8 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
-  pid: obj10
+  collection: cnc_art
+  pid: img10
   y: 25%
   height: '500px'
 ---
