@@ -10,6 +10,6 @@ The large tiles in her accompanying piece "Groundscapes Displaced" reimagine the
 
 Learn more about Sarabel Santos-Negrón.
 
-![People walk over several tiles from Sarabel's piece that are placed on the floor.](assets/images/santosnegron-s_groundscapes-displaced_01.jpg)
+![People walk over several tiles from Sarabel's piece that are placed on the floor.](assets/images/santosnegron-s_under-pressure_01.jpg)
 
-![A closer view of tiles from Sarabel's piece, Groundscapes Displaced](assets/images/santosnegron-s_groundscapes-displaced_02.jpg)
+![A closer view of tiles from Sarabel's piece, Groundscapes Displaced](assets/images/santosnegron-s_under-pressure_02.jpg)
