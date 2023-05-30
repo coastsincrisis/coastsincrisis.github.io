@@ -2,6 +2,10 @@
 title: Entangled Ecologies
 ---
 
+### Entangled Ecologies
+
+![A young Black woman stands in front of fallen trees and looks defiantly at the camera.](assets/images/berg-d_2017_regrowth-II.jpg)
+
 The St. Lucian poet and Nobel Prize winner Derek Walcott writes that Caribbean history “is there in Antillean geography, in the vegetation itself.”1
 
 In this pathway, artists, musicians, and poets tell the history of Hurricane María through the transformation of the island's trees.  
