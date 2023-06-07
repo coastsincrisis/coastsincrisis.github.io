@@ -12,6 +12,8 @@ luces en el mar.
 De espaldas a la realidad
 parece tan fácil y tan simple.
 
+![A photo of Nicole Delgado's boarding pass from Miami to San Juan.](assets/images/delgado-n_2017_oneway-ticket.jpg)
+
 
 Las casas vacías
 
@@ -37,3 +39,6 @@ Hurricane María accelerated a pattern of migration of Puerto Ricans to the U.S.
 
 
 Learn more about Nicole Delgado and La Impresora.
+
+
+https://youtu.be/aOHrm7uh0Cw
