@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-Caribbean Arts and Cultures after Hurricanesn #this is an h1
+### Caribbean Arts and Cultures after Hurricanes
 
 The main nav image within the 3 main pathways.
 
