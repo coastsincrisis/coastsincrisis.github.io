@@ -38,7 +38,7 @@ Esas casas viejas y vacías.
 Hurricane María accelerated a pattern of migration of Puerto Ricans to the U.S. mainland that had been on the rise since the island's fiscal crisis exploded around 2010. Many artists and scholars have sought to express the experiences of those displaced. Others have focused on what has been left behind, declaring a new "age of abandonment" of Puerto Rico in the twenty-first century. Bucking this trend, the poet Nicole Delgado returned to the island permanently in 2012.  From the collection Periodo Especial, her poems "One Way Ticket" and "Las casas vacías" reflect upon the moments of grace and hardship inherent in returning to and living in landscapes others have abandoned.
 
 
-Learn more about Nicole Delgado and La Impresora.
+Learn more about Nicole Delgado and La Impresora. 
 
 
 https://youtu.be/aOHrm7uh0Cw

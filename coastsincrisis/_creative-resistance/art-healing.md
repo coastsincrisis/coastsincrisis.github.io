@@ -10,3 +10,5 @@ Hurricane Irma destroyed Florida Keys-based artist Sally Binard's home in 2017. 
 
 Learn more about Sally Binard.
 
+https://youtu.be/3xVDCqSNoEE
+

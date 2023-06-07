@@ -13,3 +13,5 @@ St. Croix photographer David Berg was struck by the power of Hurricane María to
 The title of Berg's photographic series "Regrowth" points to the long memories of human and more-than-human ecologies and their resurgence in the aftermath of hurricanes. 
 
 Learn more about David Berg.
+
+https://youtu.be/fD4U6VxUw-c

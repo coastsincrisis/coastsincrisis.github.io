@@ -9,3 +9,5 @@ The title of Sally Binard's "Reclamation" refers to both the salvage of physical
 Learn more about Sally Binard.
 
 ![Painting of a Black woman from chest to head with her hands horizontally extended to hold a dark stick-like object in the back of her head.](assets/images/binard-s_2017_reclamation.jpg)
+
+https://youtu.be/3xVDCqSNoEE

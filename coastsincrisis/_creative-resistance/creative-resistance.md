@@ -13,4 +13,4 @@ For many artists across the Greater Caribbean, the hurricane season of 2017 comp
 Learn more about Jo Cosme.
 
 
-Add YouTube interview here. 
+https://youtu.be/hCRfavfdGjs

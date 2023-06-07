@@ -8,7 +8,7 @@ More than 4,000 people died as a direct or indirect result of Maria, and many pe
 
 The photographer David Berg captures the absence of international attention to his native St. Croix and other Lesser Antilles islands after the 2017 hurricane season in his "Deafening Silence."
 
-Learn more about David Berg. http://coastsincrisis.net/node/24#dberg
+Learn more about David Berg.
 
 
 ![Photo of a Black woman in a white, translucent lace dress screaming under the sea with her hands extended up.](assets/images/berg-d_2017_deafening-silence.jpg)
