@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 ### About
@@ -9,8 +8,6 @@ permalink: /about/
 #### Coasts in Crisis: The Power of the Arts in the Hurricane Zone
 
 What is the role of art amid climate disaster?
-
- 
 
 This question has often been overshadowed by well-justified public attention to governmental and scientific responses to environmental catastrophe. As global climate change makes hurricanes more intense and frequent, however, the state’s ability to address crises has fallen short. This is especially the case in the Greater Caribbean, an area that encompasses the archipelago and tropical coastal regions of the hemispheric Americas. The missteps and inactions of local and federal governments have devastating consequences: in the aftermath of Hurricane María in 2017, for example, more than 4,000 people in Puerto Rico died as a direct or indirect result of the storm, yet officials calculated only 64 people had died. When President Trump visited the island after the hurricane, he callously tossed rolls of paper towels at Puerto Ricans, American citizens all, who had been living without accessible food, water, or power for weeks. In the face of this official disregard for Caribbean lives, people of the region have turned to art and collective action for innovative ways of confronting archipelagic disaster.
 
