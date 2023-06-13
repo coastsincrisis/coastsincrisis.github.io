@@ -5,12 +5,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
-    <style>
-        body { background-color: blueviolet;}
-    </style>
+    <link rel="stylesheet" href="../assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/front-nav.css">
 </head>
 <body>
     {% include navigation.html %}
+
+    <div class="overlay-container">
+        <div class="overlay">
+            <div class="creative-res">
+                <a class="button-nav" href="#">Creative Resistance</a>
+            </div>
+            <div class="entangled-eco">
+                <a class="button-nav" href="Entangled Ecologies">Entangled Ecologies</a>
+            </div>
+            <div class="predictable-pre">
+                <a class="button-nav" href="Predictable Precarity">Predictable Precarity</a>
+            </div>
+        </div>
+        <p><img src="../assets/images/theme/coasts-nav-img2.png" alt="A map of the Caribbean islands."></p>
+    </div>
+
     {{ content }}
 </body>
 </html>

@@ -5,14 +5,9 @@
 layout: home
 title: Home
 ---
-
 ### Caribbean Arts and Cultures after Hurricanes
 
-The main nav image within the 3 main pathways.
-
-
 "Coasts in Crisis" explores the creative practices that emerged after the 2017 hurricane season in the Greater Caribbean. The centrifugal motion of the hurricane's spiral is the organizing principle of this site.
-
 
 Throughout the archipelago, spirals can be seen everywhere from ancient Taino carvings to today's weather maps. Since the arrival of Christopher Columbus, an estimated 4,000 to 5,000 hurricane-level storms have passed through the Caribbean. While media coverage often presents the arrival of a hurricane as a surprise, storms are a regular if unpredictable facet of life in the archipelago.
 
