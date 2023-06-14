@@ -7,10 +7,12 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="../assets/css/main.css">
     <link rel="stylesheet" href="../assets/css/front-nav.css">
+    <link rel="stylesheet" href="../assets/css/path.css">
 </head>
 <body>
     {% include navigation.html %}
 
+    {{ content }}
     <div class="overlay-container">
         <div class="overlay">
             <div class="creative-res">
@@ -26,6 +28,12 @@
         <p><img src="../assets/images/theme/coasts-nav-img2.png" alt="A map of the Caribbean islands."></p>
     </div>
 
+    <div>
+        <img src="../assets/images/theme/hurricane-icon.png" alt="A bright red hurricane icon rotating." class="icon-irma rotate">
+        <img src="../assets/images/theme/hurricane-icon.png" alt="A bright red hurricane icon rotating." class="icon-maria rotate">
+        <img src="../assets/images/theme/hurricane-icon.png" alt="A bright red hurricane icon rotating." class="icon-jose rotate">
+    </div>
+    
     {{ content }}
 </body>
 </html>
