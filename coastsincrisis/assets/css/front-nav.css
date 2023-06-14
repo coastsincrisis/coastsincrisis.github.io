@@ -1,26 +1,4 @@
-.hurricane-icon {
-    height: auto;
-    margin:  0.5em;
-    position: absolute;
-    width: 8em;
-    z-index: 1000;
-}
-
-.icon-irma {
-    bottom: 55em;
-    left: 10.5em;
-}
-
-.icon-jose {
-    left: 39em;
-    top: 33em;
-}
-
-.icon-maria {
-    left: 49em;
-    top: 3.5em;
-}
-
+/* styles for the main hurricane path navigation in the home page */
 .rotate {
   animation: rotation 8s infinite linear;
 }
