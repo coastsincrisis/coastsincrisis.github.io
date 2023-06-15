@@ -1,4 +1,10 @@
 /* styles for the main hurricane path navigation in the home page */
+img[src="../assets/images/theme/coasts-nav-img2.png"] {
+  height: auto;
+  width: 1140px;
+  display: block;
+ }
+
 .rotate {
   animation: rotation 8s infinite linear;
 }

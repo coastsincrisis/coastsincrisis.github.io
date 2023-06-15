@@ -34,6 +34,88 @@
     }
   }
 
+
 /* pathway backgrounds */
+.bkg {
+  background: center no-repeat;
+  background-size: 1140px auto;
+  z-index: 999;
+}
+
+.bkg-cr {
+  background: url(/themes/bootstrap_coasts/images/cr-irma-bkg.png);
+  /* background-size: 1140px auto; */
+}
+
+.bkg-ec {
+  background: url(/themes/bootstrap_coasts/images/ec-maria-bkg.png) center no-repeat;
+  overflow: visible;
+}
+
+.bkg-pp {
+  background: url(/themes/bootstrap_coasts/images/pp-jose-bkg.png) center no-repeat;
+  /* background-size: 1140px auto; */
+  overflow: visible;
+}
+
+
+/* pathway icons */
+.cr-hurricane {
+  top: 45.5em;
+  left: 10em;
+  margin: 1em;
+}
+
+.ec-hurricane {
+  top: 58.5em;
+  left: 12em;
+  margin: 1em;
+}
+
+.pp-hurricane {
+  bottom: 27.5em;
+  margin: 1em;
+}
+
 
 /* main styles */
+.boardingpass {
+  width: 45em;
+  height: auto;
+  border-radius: 20px;
+}
+
+.button {
+  background-color: teal;
+  border-style: solid;
+  color: #e7e7e7;
+  padding: 10px 21px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+  border-radius: 50px;
+}
+
+.button-left {
+  background-color: teal;
+  border-style: solid;
+  color: #e7e7e7;
+  padding: 10px 21px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+  float: left;
+  border-radius: 50px;
+}
+
+.button-right {
+  background-color: teal;
+  border-style: solid;
+  color: #e7e7e7;
+  padding: 10px 21px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+  float: right;
+  border-radius: 50px;
+}

@@ -1,4 +1,4 @@
-/* GENERAL STYLES */
+/* main styles */
 body {
     background-image: url("../images/theme/map-grid.png");
     font-size: large;
@@ -34,9 +34,32 @@ p > a:hover {
     text-decoration: none;
 }
 
+.sponsors {
+    height: auto;
+    width: 750px;
+}
+
 .text-box {
     background-color: rgb(217,217,217);
     background-color: rgba(217,217,217,0.7);
     border: 1em solid rgb(217,217,217);
     border: 1em solid rgba(217,217,217,0);
+}
+
+/* people styles */
+.artist-portrait {
+    border-radius: 1em;
+    height: 15em;
+     width: auto; 
+ }
+ 
+ .people-p {
+     text-align: justify;
+     width: 36em;
+ }
+ 
+ .team-portrait {
+    border-radius: 1em;
+    height:14em;
+    width: auto;
 }
