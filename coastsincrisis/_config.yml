@@ -37,12 +37,13 @@ plugins:
 collections:
   creative-resistance:
     output: true
-    permalink: /:title.html
+    permalink: /:collection/:name
   entangled-ecologies:
-    permalink: /:title.html
+    output: true
+    permalink: /:collection/:name
   predictable-precarity:
     output: true
-    permalink: /:title.html
+    permalink: /:collection/:name
   
 
 
