@@ -34,6 +34,19 @@ p > a:hover {
     text-decoration: none;
 }
 
+.poem-title {
+    font-style: italic;
+    font-size: 24px;
+    padding: 10px;
+    font-weight: 300;
+}
+
+.poem-body {
+    font-family: courier,serif;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
 .sponsors {
     height: auto;
     width: 750px;
