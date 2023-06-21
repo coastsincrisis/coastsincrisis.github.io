@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: path-page
 title: Resources
+permalink: /resources/
 ---
 
 ### Resources

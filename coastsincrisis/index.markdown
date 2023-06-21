@@ -4,6 +4,7 @@
 
 layout: home
 title: Home
+permalink: /home/
 ---
 ### Caribbean Arts and Cultures after Hurricanes
 
