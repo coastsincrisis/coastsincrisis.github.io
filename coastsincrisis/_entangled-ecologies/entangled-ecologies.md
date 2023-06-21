@@ -5,6 +5,8 @@ title: Entangled Ecologies
 ### Entangled Ecologies
 
 ![A young Black woman stands in front of fallen trees and looks defiantly at the camera.](assets/images/berg-d_2017_regrowth-II.jpg)
+David Berg, Regrowth II, 2017. Photograph, St Croix. 
+
 
 The St. Lucian poet and Nobel Prize winner Derek Walcott writes that Caribbean history “is there in Antillean geography, in the vegetation itself.”1
 
@@ -18,4 +20,8 @@ Part elegy, part celebration of regrowth, these works reveal to us that the live
 
 Learn more about David Berg and Blackwood Imaging.
 
+
 https://youtu.be/fD4U6VxUw-c
+
+<a href="/index.html" class="button-left"></a>
+<a href="fallen-trees.html" class="button-right"></a>

@@ -12,6 +12,11 @@ Learn more about David Berg.
 
 
 ![Photo of a Black woman in a white, translucent lace dress screaming under the sea with her hands extended up.](assets/images/berg-d_2017_deafening-silence.jpg)
+David Berg, Deafening Silence, 2017. Photograph. St. Croix.
+
 
 
 https://youtu.be/fD4U6VxUw-c
+
+<a href="shelter-place.html" class="button-left"></a>
+<a href="foretelling-future.html" class="button-right"></a>

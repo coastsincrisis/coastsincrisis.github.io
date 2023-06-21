@@ -9,9 +9,18 @@ While the path of a hurricane is unpredictable, a government's response to it sh
 Learn more about Jo Cosme.
 
 ![A set of 24 black & white tarot cards displayed on a wooden board using tacks and binder clips.](assets/images/cosme-j_2017_futuro-catastrofico_01.jpg)
+Jo Cosme, Crónicas de un Futuro Catastrófico, 2017. Mixed Media. Puerto Rico.
+
 
 ![A catalog of Jo Cosme's exhibition is shown in the picture covered by a partially visible royal blue cloth. The pamphlet has a black and white Puerto Rican flag on its cover.](assets/images/cosme-j_2017_futuro-catastrofico_02.jpg)
+Jo Cosme, Crónicas de un Futuro Catastrófico, 2017. Mixed Media. Puerto Rico.
+
 
 ![Several cards from the exhibit placed around the collection's catalog.](assets/images/cosme-j_2017_futuro-catastrofico_03.jpg)
+Jo Cosme, Crónicas de un Futuro Catastrófico, 2017. Mixed Media. Puerto Rico.
+
 
 https://youtu.be/hCRfavfdGjs
+
+<a href="shelter-place.html" class="button-left"></a>
+<a href="foretelling-future.html" class="button-right"></a>
