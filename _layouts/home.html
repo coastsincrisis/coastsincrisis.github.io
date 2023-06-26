@@ -6,11 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="../assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/nav.css">
     <link rel="stylesheet" href="../assets/css/front-nav.css">
     <link rel="stylesheet" href="../assets/css/path.css">
 </head>
 <body>
+
     {% include navigation.html %}
+
+<div class="container-flex">
 
     {{ content }}
 
@@ -35,6 +39,6 @@
         <img src="../assets/images/theme/hurricane-icon.png" alt="A bright red hurricane icon rotating." class="icon-maria rotate">
         <img src="../assets/images/theme/hurricane-icon.png" alt="A bright red hurricane icon rotating." class="icon-jose rotate">
     </div>
-    
+</div>  
 </body>
 </html>

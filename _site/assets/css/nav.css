@@ -1,3 +1,23 @@
+a {
+   text-decoration: none;
+}
+
+nav {
+   background-color: antiquewhite;
+   display: grid;   
+   grid-template-columns: 30% auto auto auto;
+   grid-column-gap: 5%;
+   text-align: center;
+}
+
+/* UNUSED CLASSES
+.nav-home
+.nav-btn
+*/
+
+
+/* IMPORTED STYLES FROM DRUPAL 9
+
 .navbar {
     position: relative;
     min-height: 50px;
@@ -19,7 +39,7 @@ header.navbar-default .navbar-brand {
 
 a.navbar-brand {
    background-color: transparent;
-   font-size: 50px; /* thinking of responsive design, I wonder if we should use relative units like rem or em? */
+   font-size: 50px;
    text-align: center;
 }
 
@@ -29,4 +49,4 @@ a.navbar-brand {
    line-height: 20px;
    font-size: large;
    color: teal;
-}
+} */
