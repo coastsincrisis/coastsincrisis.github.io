@@ -1,11 +1,10 @@
 ---
 layout: path-page
 title: Resources
-permalink: /resources/
+permalink: resources
 ---
 
 ### Resources
-
 #### Caribbean Digital Humanities Resources
 Digital Library of the Caribbean https://www.dloc.com/
 

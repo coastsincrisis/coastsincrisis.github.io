@@ -1,14 +1,11 @@
 ---
-layout: page
+layout: path-page
 title: People
-permalink: /people/
 ---
 
-### People
-
+#### People
 #### Artists
-
-![A ](assets/images/david-berg_0.jpg)
+![](assets/images/david-berg_0.jpg)
 David Berg is the founder of Blackwood Imaging, a photography collective dedicated to showcasing the culture and artists of the Caribbean Islands. He lives, shoots, and edits just outside Frederiksted, St. Croix, on an old Danish plantation close to his family home. Check out the artist's website here https://www.blackwoodimaging.com/
 
 
