@@ -5,6 +5,10 @@ body {
     font-family: Geneva, sans-serif;  
 }
 
+h2 {
+    color: teal;
+}
+
 img {
     max-width: 100%;
 }
@@ -12,22 +16,15 @@ img {
 /* grid layout */
 .container {
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(6, 1fr);
-    min-width: 0;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3, 1fr);
 }
 
 .navbar {
-    max-width: 100%;
-    grid-column: 1 / -1;
-    grid-row: 1 / 1fr;   
+    grid-column: 1 / 2;
+    grid-row: 1 / 1fr;
 }
 
-
-
-h2 {
-    color: teal;
-}
 
 /* IMPORTED STYLES FROM DRUPAL
 
@@ -81,7 +78,7 @@ p > a:hover {
 } */
 
 /* people page styles */
-.artist-portrait {
+/* .artist-portrait {
     border-radius: 1em;
     height: 15em;
      width: auto; 
@@ -96,4 +93,4 @@ p > a:hover {
     border-radius: 1em;
     height:14em;
     width: auto;
-}
+} */

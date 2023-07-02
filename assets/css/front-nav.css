@@ -1,10 +1,9 @@
-/* styles for the main hurricane path navigation in the home page */
+styles for the main hurricane path navigation in the home page */
 img[src="../assets/images/theme/coasts-nav-img2.png"] {
   height: auto;
-  /* width: 1140px; */
-  display: block;
  }
 
+/* 
 .rotate {
   animation: rotation 8s infinite linear;
 }
@@ -57,7 +56,7 @@ img[src="../assets/images/theme/coasts-nav-img2.png"] {
 }
 .img-size {
     height: auto;
-    /* width: 1140px; */
+
     position: relative;
     z-index: 5;
 }
@@ -68,4 +67,4 @@ img[src="../assets/images/theme/coasts-nav-img2.png"] {
     bottom: 0;
     left: 0;
     right: 0;
-}
+} */
