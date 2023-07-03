@@ -7,7 +7,7 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="../assets/css/main.css">
     <link rel="stylesheet" href="../assets/css/nav.css">
-    <link rel="stylesheet" href="../assets/css/front-nav.css">
+    <link rel="stylesheet" href="../assets/css/front-page.css">
     <link rel="stylesheet" href="../assets/css/path.css">
 </head>
 <body>
@@ -16,12 +16,12 @@
 
     {% include navigation.html %}
    
-    <div>
+    <div class="content center intro-text">
         {{ content }}
     </div>
 
     <div class="overlay-container">
-        <!-- <div class="overlay">
+        <div class="overlay">
             <div class="creative-res">
                 <a class="button-nav" href="entangled-ecologies/entangled-ecologies.html">Creative Resistance</a>
             </div>
@@ -31,16 +31,15 @@
             <div class="predictable-pre">
                 <a class="button-nav" href="predictable-precarity/predictable-precarity.html">Predictable Precarity</a>
             </div>
-        </div> -->
+        </div>
         
-        <p><img src="../assets/images/theme/coasts-nav-img2.png" alt="A map of the Caribbean islands."></p>
-    </div>
+        <img src="../assets/images/theme/hurricane-icon.png" alt="A bright red hurricane icon rotating." class="hurricane-icon rotate">
+        <img src="../assets/images/theme/hurricane-icon.png" alt="A bright red hurricane icon rotating." class="hurricane-icon rotate">
+        <img src="../assets/images/theme/hurricane-icon.png" alt="A bright red hurricane icon rotating." class="hurricane-icon rotate">
 
-    <!-- <div>
-        <img src="../assets/images/theme/hurricane-icon.png" alt="A bright red hurricane icon rotating." class="icon-irma rotate">
-        <img src="../assets/images/theme/hurricane-icon.png" alt="A bright red hurricane icon rotating." class="icon-maria rotate">
-        <img src="../assets/images/theme/hurricane-icon.png" alt="A bright red hurricane icon rotating." class="icon-jose rotate">
-    </div> -->
+        <img src="../assets/images/theme/coasts-nav-img2.png" alt="A map of the Caribbean islands.">
+    </div>
+    
 </div>  
 </body>
 </html>

@@ -1,12 +1,18 @@
-styles for the main hurricane path navigation in the home page */
+/* styles exclusive to the home page */
 img[src="../assets/images/theme/coasts-nav-img2.png"] {
   height: auto;
  }
 
-/* 
+ .intro-text {
+    width: 80%;
+ }
+
+
+/* animation for hurricane icons */
 .rotate {
   animation: rotation 8s infinite linear;
 }
+
 @keyframes rotation {
   from {
     transform: rotate(359deg);
@@ -54,9 +60,9 @@ img[src="../assets/images/theme/coasts-nav-img2.png"] {
 .overlay-container:hover .overlay {
     opacity: 1;
 }
+
 .img-size {
     height: auto;
-
     position: relative;
     z-index: 5;
 }
@@ -67,4 +73,4 @@ img[src="../assets/images/theme/coasts-nav-img2.png"] {
     bottom: 0;
     left: 0;
     right: 0;
-} */
+}

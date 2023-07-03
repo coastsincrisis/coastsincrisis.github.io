@@ -5,7 +5,7 @@ a {
 nav {
    background-color: #f8f8f8;
    display: grid;   
-   grid-template-columns: 30% repeat(3, 1fr);
+   grid-template-columns: 30% repeat(3, auto);
    text-align: center;
 }
 
