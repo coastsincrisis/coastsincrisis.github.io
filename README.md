@@ -7,8 +7,8 @@ It's currently under production. We're migrating the project from Drupal 9, stil
 1. `--livereload` 2023-06-25. There's something in my computer that's not allowing the plugin to work. I tried editing the _config.yml, the gemfile, reinstalling ruby in a conda environment, as well as jekyll and other gem files. Several attempts at troubleshooting why the auto regeneration wasn't working also proved unsuccessful, but using `--force_polling` instead.
 
 
-### site structure
-–––––––coasts in crisis 
+### core site structure
+home
 about
 people
 resources
